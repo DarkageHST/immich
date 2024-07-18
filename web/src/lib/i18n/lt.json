@@ -759,6 +759,8 @@
   "search": "Ieškoti",
   "search_albums": "",
   "search_by_context": "Ieškoti pagal kontekstą",
+  "search_by_filename": "Ieškoti pagal failo pavadinimą arba plėtinį",
+  "search_by_filename_example": "pvz. IMG_1234.JPG arba PNG",
   "search_camera_make": "",
   "search_camera_model": "",
   "search_city": "",

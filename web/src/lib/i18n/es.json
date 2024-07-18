@@ -1012,6 +1012,8 @@
   "search": "Buscar",
   "search_albums": "Buscar álbums",
   "search_by_context": "Buscar por contexto",
+  "search_by_filename": "Buscar por nombre de archivo o extensión",
+  "search_by_filename_example": "es decir IMG_1234.JPG o PNG",
   "search_camera_make": "Buscar fabricante de cámara...",
   "search_camera_model": "Buscar modelo de cámara...",
   "search_city": "Buscar ciudad...",

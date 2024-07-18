@@ -1011,6 +1011,8 @@
   "search": "Zoeken",
   "search_albums": "Zoek albums",
   "search_by_context": "Zoeken op context",
+  "search_by_filename": "Zoeken op bestandsnaam of -extensie",
+  "search_by_filename_example": "b.v. IMG_1234.JPG of PNG",
   "search_camera_make": "Zoek cameramerk...",
   "search_camera_model": "Zoek cameramodel...",
   "search_city": "Zoek stad...",
