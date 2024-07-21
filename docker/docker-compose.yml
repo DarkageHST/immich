@@ -18,6 +18,9 @@ services:
     volumes:
       - ${UPLOAD_LOCATION}:/usr/src/app/upload
       - /etc/localtime:/etc/localtime:ro
+      /srv/dev-disk-by-uuid-72237add-b470-426c-b5cf-cc3123ea0482/Bilder-Archiv/Upload/4527194f-ea5f-4e19-b54a-47e8c6c32a30:/srv/dev-disk-by-uuid-72237add-b470-426c-b5cf-cc3123ea0482/Bilder-Archiv/Upload/4527194f-ea5f-4e19-b54a-47e8c6c32a30:ro
+      /mnt/nas/christmas-trip:/mnt/nas/christmas-trip:ro
+    
     env_file:
       - .env
     ports:
